@@ -4,13 +4,13 @@
 
 I'm passionate about building reliable software through **Software Quality Assurance (QA)** and creating games with **Unity & C#**.
 
-## 🚀 About Me
+## 🗃️ About Me
 
-- 💼 Former QA, Process Analysis & Automation Intern
-- 🧪 Experience with Software QA, Functional Testing, UAT and Process Mapping
-- 🤖 Worked with Python, UiPath and AI-powered automation
-- 🎮 Currently developing games (personal projects) with Unity and C#
-- 🌱 Always learning Software Engineering, QA and Game Development
+- Former QA, Process Analysis & Automation Intern
+- Experience with Software QA, Functional Testing, UAT and Process Mapping
+- Worked with Python, UiPath and AI-powered automation
+- Currently developing games (personal projects) with Unity and C#
+- Always learning Software Engineering, QA and Game Development
 
 ## 🛠 Tech Stack
 
