@@ -34,4 +34,4 @@ I'm passionate about building reliable software through **Software Quality Assur
 - LinkedIn: https://www.linkedin.com/in/eduardo-moraes-37b5aa345/
 - Email for contact: rmoraeseduardo9@gmail.com
 
-Thanks for visiting! 🚀
+Thanks for visiting! 
