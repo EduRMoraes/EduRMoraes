@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Eduardo Moraes
+# Hi there, I'm Eduardo Moraes!
 
-🎓 Computer Engineering Student from Brazil.
+Computer Engineering Student from Brazil.
 
 I'm passionate about building reliable software through **Software Quality Assurance (QA)** and creating games with **Unity & C#**.
 
